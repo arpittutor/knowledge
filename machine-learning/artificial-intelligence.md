@@ -6,6 +6,7 @@
 - [Tomaso Poggio: Brains, Minds, and Machines (2019)](https://overcast.fm/+OcVf8HZ4Y)
 - [Amy Webb on Artificial Intelligence, Humanity, and the Big Nine (2019)](https://overcast.fm/+JCCrJC4)
 - [Ada Lovelace Institute](https://www.adalovelaceinstitute.org/) - Independent research and deliberative body with a mission to ensure data and AI work for people and society.
+[Artificial neural network tutorial](https://intellipaat.com/blog/tutorial/machine-learning-tutorial/neural-network-tutorial/)
 - [OpenAI Charter](https://openai.com/charter/) - Describes the principles we use to execute on OpenAI’s mission.
 - [Google AI Education Resources](https://ai.google/education/) ([HN](https://news.ycombinator.com/item?id=20493947))
 - [AI DEBATE : Yoshua Bengio | Gary Marcus (2019)](https://www.youtube.com/watch?v=EeqwFjqFvJA) ([Reddit](https://www.reddit.com/r/MachineLearning/comments/eezv6l/nai_debate_2019_yoshua_bengio_vs_gary_marcus/))
